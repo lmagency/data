@@ -1,5 +1,5 @@
 {
-    "ella": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+    "ella": ["Mon", "Tue", "Wed", "thu", "Fri", "Sat", "Sun"],
     "leni": ["Mon", "Wed", "Thu", "Fri", "Sat", "Sun"],
     "lilly": ["Tue", "Thu", "Fri", "Sat", "Sun"],
     "rose": ["Mon", "Wed", "Thu", "Fri", "Sat", "Sun"],
