@@ -1,0 +1,17 @@
+{
+    "ella": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+    "leni": ["Mon", "Wed", "Thu", "Fri", "Sat", "Sun"],
+    "lilly": ["Tue", "Thu", "Fri", "Sat", "Sun"],
+    "rose": ["Mon", "Wed", "Thu", "Fri", "Sat", "Sun"],
+    "melissa": ["Tue", "Thu", "Fri", "Sat", "Sun"],
+    "isabelle": ["Mon", "Wed", "Fri", "Sun"],
+    "valentina": ["Tue", "Sat"],
+    "elfie": ["Mon", "Wed"],
+    "liliana": ["Tue", "Thu"],
+    "louise": ["Mon", "Wed"],
+    "celine": ["Tue", "Thu"],
+    "anni": ["Mon", "Wed", "Thu", "Fri", "Sat", "Sun"],
+    "sarah": ["Tue"],
+    "kira": ["Mon", "Wed","Thu", "Fri", "Sat", "Sun"],
+    "miriam": ["Tue", "Thu"]
+}
