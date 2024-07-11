@@ -1,6 +1,6 @@
 {
-    "ella": ["mon", "tue", "wed", "thu", "fri", "sat", "sun"],
-    "leni": ["mon", "wed", "thu", "fri", "sat", "sun"],
+    "ella": ["mon", "tue", "wed", "do", "fri", "sat", "sun"],
+    "leni": ["mon", "wed", "do", "fri", "sat", "sun"],
     "lilly": ["tue", "thu", "fri", "sat", "sun"],
     "rose": ["mon", "wed", "thu", "fri", "sat", "sun"],
     "melissa": ["tue", "thu", "fri", "sat", "sun"],
