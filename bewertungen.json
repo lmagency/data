@@ -1,17 +1,48 @@
 [
+   
     {
-        "text": "Toller Service und sehr professionell!",
+        "text": "Das erste Mal aus reiner Neugierde... zweites Mal aus Überzeugung! Echt eine ultimative Empfehlung für alle, die mehr als nur eine Stunde Abwechslung suchen. Wer sucht und auf die LEA-Website stößt, ist eigentlich schon von der Qualität der Agentur überzeugt.",
         "stars": 5,
-        "name": "Julia K."
+        "name": "Thomas S."
     },
     {
-        "text": "Ich habe mich von Anfang an wohl und wertgeschätzt gefühlt. Die beste Entscheidung, die ich treffen konnte!",
+        "text": "Gut geführte Agentur, hohe Professionalität, weiter so. Ich habe genügend Informationen für meine Buchung erhalten und mich während des Buchungsprozesses als erstmaliger Kunde freundlich aufgehoben gefühlt, und das Treffen war dann noch grandios, beide Daumen hoch.",
         "stars": 5,
-        "name": "Lena S."
+        "name": "L. Valentin"
+    },
+  
+ 
+    {
+        "text": "Mit LEA ist man immer auf der sicheren Seite. Sehr schnelle Rückmeldung, unkomplizierte Buchung. Danke vielmals.",
+        "stars": 5,
+        "name": "Julian B."
+    },
+
+
+  
+    {
+        "text": "Ich bin sehr zufrieden und wurde bei LEA noch nie enttäuscht. Danke auch für die unkomplizierte Abwicklung und nette Beratung.",
+        "stars": 5,
+        "name": "Andreas „Munichoptik“"
     },
     {
-        "text": "Das Team von LEA-Escorts ist sehr unterstützend und immer erreichbar. Danke für die tolle Zusammenarbeit!",
+        "text": "Kürzlich mit einem Freund ein Duo in München getroffen und wir haben eine schöne Zeit gehabt. Models, ihr seid großartig!",
         "stars": 5,
-        "name": "Sarah M."
+        "name": "X Shopper"
+    },
+    {
+        "text": "Hatte letzte Woche ein tolles Meeting, perfekter und freundlicher Service bei der Kommunikation bezüglich eines Meetings. Tolle Anleitung, um einen tollen Partner für ein perfektes Meeting zu finden. Sehr zu empfehlen und hoffentlich bald wieder.",
+        "stars": 5,
+        "name": "Mr. Happy Traveler"
+    },
+    {
+        "text": "Die Organisation verlief reibungslos und das Treffen super angenehm, ich freue mich schon auf das nächste Mal, wenn ich in München bin!",
+        "stars": 5,
+        "name": "Peter"
+    },
+    {
+        "text": "Sehr empfehlenswerte Agentur in München!",
+        "stars": 5,
+        "name": "Cliff"
     }
 ]
