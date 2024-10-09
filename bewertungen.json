@@ -1,5 +1,4 @@
 [
-   
     {
         "text": "Das erste Mal aus reiner Neugierde... zweites Mal aus Überzeugung! Echt eine ultimative Empfehlung für alle, die mehr als nur eine Stunde Abwechslung suchen. Wer sucht und auf die LEA-Website stößt, ist eigentlich schon von der Qualität der Agentur überzeugt.",
         "stars": 5,
@@ -10,16 +9,11 @@
         "stars": 5,
         "name": "L. Valentin"
     },
-  
- 
     {
         "text": "Mit LEA ist man immer auf der sicheren Seite. Sehr schnelle Rückmeldung, unkomplizierte Buchung. Danke vielmals.",
         "stars": 5,
         "name": "Julian B."
     },
-
-
-  
     {
         "text": "Ich bin sehr zufrieden und wurde bei LEA noch nie enttäuscht. Danke auch für die unkomplizierte Abwicklung und nette Beratung.",
         "stars": 5,
@@ -44,5 +38,42 @@
         "text": "Sehr empfehlenswerte Agentur in München!",
         "stars": 5,
         "name": "Cliff"
+    },
+    {
+        "text": "Mit LEA ist es einfach, tolle Erfahrungen zu erleben und jedes Treffen ist etwas Besonderes. Die Kommunikation ist schnell und mit allen Details, ohne, dass ich nachfragen muss oder ähnliches. So geht Kundenservice!",
+        "stars": 5,
+        "name": "P. T."
+    },
+    {
+        "text": "Empfehlung für gute Service-Qualität bei der Organisation und sehr reizende Treffen.",
+        "stars": 5,
+        "name": "Berlin T."
+    },
+    {
+        "text": "Kurzfristige Buchung? Kein Problem anscheinend, denn für den gleichen Tag geht auch alles ganz fix. Treffen war besser als ich es gedacht hatte, das Model war einfach umwerfend und was sie alles machen konnte… Mann schweigt und genießt :))! Aber klar Empfehlung.",
+        "stars": 5,
+        "name": "Steve Sch"
+    },
+ 
+    {
+        "text": "Best experience in dating I had so far. Never disappointed and always reliable. Looking forward to my next time!",
+        "stars": 5,
+        "name": "Sará"
+    },
+    {
+        "text": "Wunderschöne Ladies, hatte mir viel Zeit gelassen, die Fotos anzuschauen und mir die Wahl genau zu überlegen. Beim Treffen wurde ich nicht enttäuscht, das Model war genauso wie auf den Fotos wenn nicht schöner! Das war bei anderen Anbietern nicht so, weshalb LEA für mich die erste Wahl geworden ist. Haben die Zeit zusammen sehr genossen!",
+        "stars": 5,
+        "name": "Manuel E."
+    },
+    {
+        "text": "Klasse Agentur mit wirklich klasse Models. Bin regelmäßiger Bucher und habe schon zahlreiche tolle Treffen erleben können! Auch wenn es mal spontaner gehen muss, hatte ich noch nie Schwierigkeiten, ob’s früh am Morgen oder nachmittags war, jedes Mal gab es zügig und zuverlässig eine Rückmeldung, mit der ich gut umgehen und arbeiten konnte. Kommunikation ist dabei wirklich gut und einfach, sodass alles schnell besprochen werden kann.",
+        "stars": 5,
+        "name": "Horst M."
+    },
+    {
+        "text": "Best service I have experienced so far in Munich!",
+        "stars": 5,
+        "name": "Pete"
     }
+ 
 ]
