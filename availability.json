@@ -14,5 +14,6 @@
     "lucia": ["do", "fr", "sa", "so"],
     "elena": ["mo", "di", "mi", "do", "fr", "sa", "so"],
     "nora": [],
+     "laura": ["do", "sa", "so"],
     "claire": ["mo", "di", "mi", "do", "fr", "sa", "so"]
 }
