@@ -1,15 +1,15 @@
 {
     "ella": {
         "München": "1.5",
-        "Berlin": "12",
-        "Hamburg": "12",
-        "Köln": "12",
-        "Frankfurt": "8",
-        "Düsseldorf": "12",
-        "Dresden": "12",
-        "Bremen": "16",
-        "Stuttgart": "5",
-        "Würzburg": "6"
+        "Berlin": "Auf Anfrage",
+        "Hamburg": "Auf Anfrage",
+        "Köln": "Auf Anfrage",
+        "Frankfurt": "Auf Anfrage",
+        "Düsseldorf": "Auf Anfrage",
+        "Dresden": "Auf Anfrage",
+        "Bremen": "Auf Anfrage",
+        "Stuttgart": "Auf Anfrage",
+        "Würzburg": "Auf Anfrage",
     },
     "lilly": {
         "München": "1.5",
@@ -34,18 +34,6 @@
         "Bremen": "16",
         "Stuttgart": "5",
         "Würzburg": "6"
-    },
-    "mia": {
-        "München": "2",
-        "Berlin": "Auf Anfrage",
-        "Hamburg": "Auf Anfrage",
-        "Köln": "Auf Anfrage",
-        "Frankfurt": "Auf Anfrage",
-        "Düsseldorf": "Auf Anfrage",
-        "Dresden": "Auf Anfrage",
-        "Bremen": "Auf Anfrage",
-        "Stuttgart": "Auf Anfrage",
-        "Würzburg": "Auf Anfrage"
     },
     "claire": {
         "München": "6",
@@ -191,7 +179,31 @@
         "Stuttgart": "5",
         "Würzburg": "6"
     },
-    "nora": {
+    "emilia": {
+        "München": "2",
+        "Berlin": "12",
+        "Hamburg": "12",
+        "Köln": "12",
+        "Frankfurt": "8",
+        "Düsseldorf": "12",
+        "Dresden": "12",
+        "Bremen": "16",
+        "Stuttgart": "5",
+        "Würzburg": "6"
+    },
+       "anna": {
+        "München": "2",
+        "Berlin": "12",
+        "Hamburg": "12",
+        "Köln": "12",
+        "Frankfurt": "5",
+        "Düsseldorf": "12",
+        "Dresden": "12",
+        "Bremen": "16",
+        "Stuttgart": "2",
+        "Würzburg": "3"
+    },
+       "alicia": {
         "München": "2",
         "Berlin": "12",
         "Hamburg": "12",
