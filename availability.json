@@ -1,6 +1,6 @@
 {
     "ella": ["mo", "mi", "do", "fr", "sa", "so"],
-    "leni": [""mo", "di", "mi", "do", "fr", "so"],
+    "leni": ["mo", "di", "mi", "do", "fr", "so"],
     "lilly": ["di", "mi", "do", "fr", "sa"],
     "lena": ["mo", "di", "mi", "do", "fr", "sa", "so"],
     "julia": ["fr", "sa"],
