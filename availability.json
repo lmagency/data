@@ -1,20 +1,22 @@
 
+
 {
-    "ella": ["mi", "do", "fr", "so"],
+    "ella": ["do", "sa", "so"],
     "leni": [],
-    "lilly": ["di", "mi", "do", "fr", "sa", "so"],
+    "lilly": ["mo", "di", "do", "fr", "sa"],
     "juna": [],
     "stella": [],
-    "maxim": ["di", "mi", "do"],
+    "maxim": [],
     "fabienne": [],
     "sarah": ["mo", "di", "mi", "do", "fr", "sa", "so"], 
     "leilah": [],
     "elena": ["mo", "di", "mi", "do", "fr", "sa", "so"],
     "claire": ["mo", "di", "mi", "do", "fr", "sa", "so"],							        
-    "alicia": [],
-     "mila": ["mo", "di", "mi", "do", "fr", "sa", "so"],
-     "philomena": ["mo", "di", "mi", "sa", "so"],
-     "kate": ["mo", "di", "mi", "do", "fr", "sa", "so"],
+    "alicia": ["fr", "sa", "so"],
+     "mila": [],
+     "philomena": ["mo", "mi", "do", "sa", "so"],
+     "kate": ["mo", "di", "mi", "sa"],
      "mai" : [],
      "lavinia" : ["fr", "sa", "so"]
+
 }
