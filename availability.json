@@ -18,6 +18,5 @@
      "mai" : ["do", "fr"],
      "fallon" : ["mo", "di", "mi", "do", "fr", "sa", "so"],
      "nora": ["so"],
-     "sally": ["mi", "fr", "sa", "so"],
      "lavinia" : []
 }
